@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id        = "zoulak.mobile.app"
+    id        = "zoulakfooddelivery.mobile.app"
     versionCode = "25"
     version   = "2.5">
     <name>zoulak food delivery</name>
