@@ -3,8 +3,8 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "com.zoulakfoodapp.mobile"
-    versionCode = "25"
-    version   = "2.5">
+    versionCode = "26"
+    version   = "2.6">
     <name>zoulak food delivery</name>
     <description>
         An instant meals on wheels application
