@@ -2,9 +2,9 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id        = "com.zoulakfoodapp.mobile"
-    versionCode = "26"
-    version   = "2.6">
+    id        = "com.zoulak.meal"
+    versionCode = "27"
+    version   = "2.7">
     <name>zoulak food delivery</name>
     <description>
         An instant meals on wheels application
